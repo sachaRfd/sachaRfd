@@ -17,9 +17,8 @@
   - Thesis: Diffusion Models for Optimised Geometry Prediction
 
 ### 🔍 Previous Position:
-- 🏢 Computational Chemistry Researcher - AI/ML for Drug Discovery
+- 🏢 AI/ML Researcher - Remote Sensing
   - Imperial College London, UK
-  - Developed AI models for drug discovery using advanced computational techniques
   - Applied diffusion models and robust anomaly-detecting autoencoders
 
 ### 🏆 Achievements:
