@@ -2,7 +2,7 @@
 ## Computational Scientist and Chemist
 
 ### 🎓 Education:
-- 🏛️ PhD AI for Chemistry
+- 🏛️ PhD - AI for Chemistry
   - EPFL, CH  
 - 🏛️ MSc Applied Computational Science and Engineering
   - Imperial College London, UK
