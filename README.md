@@ -2,8 +2,6 @@
 ## Computational Scientist and Chemist
 
 ### 🎓 Education:
-- 🏛️ PhD - AI4Science
-  - École Polytechnique Fédérale de Lausanne, CH  
 - 🏛️ MSc Applied Computational Science and Engineering
   - Imperial College London, UK
 - 🏛️ BSc Natural Sciences
