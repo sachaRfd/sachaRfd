@@ -6,7 +6,6 @@
   - Imperial College London, UK
 - 🏛️ BSc Natural Sciences
   - University College London, UK
-  - Thesis: The Dynamic Kinetic Resolution of Alcohols
 
 ### 🔬 Research Interests:
 - AI for Science, with a focus on Computational Chemistry and Drug Discovery
