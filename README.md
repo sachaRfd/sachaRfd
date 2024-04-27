@@ -1,5 +1,5 @@
 # Sacha Raffaud 🚀
-## Computational Scientist and Chemist
+## Computational Scientist
 
 ### 🎓 Education:
 - 🏛️ MSc Applied Computational Science and Engineering
