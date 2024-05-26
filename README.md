@@ -7,12 +7,6 @@
 - 🏛️ BSc Natural Sciences
   - University College London, UK
 
-### 🔬 Research Interests:
-- AI for Science, with a focus on Computational Chemistry and Drug Discovery
-
-### 🚀 Current Position:
-- 🏢 Doctoral Researcher - EPFL LIAC & Pfizer
-
 ### 🔍 Previous Position:
 - 🏢 Visiting Master's Thesis Student - LIAC
   - École Polytechnique Fédérale de Lausanne, Switzerland
